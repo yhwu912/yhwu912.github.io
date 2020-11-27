@@ -3134,10 +3134,11 @@ p.form-message.success, p.form-message.error {
   border-radius: 50%; }
 .contact-info .single-contact-info .contact-info-content {
   padding-left: 20px; 
+  line-height: 50px;
   }
   .contact-info .single-contact-info .contact-info-content .text {
     color: #121212;
-	font-size: 24px;
+	font-size: 20px;
 	}
 .contact-info .single-contact-info.contact-color-1 .contact-info-icon i {
   background-color: #121212; }
